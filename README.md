@@ -5,5 +5,5 @@ Devotees will be allowed to donate or participate in various temple activities o
 
 Devotee can transfer funds from bank account to TempleFood App account and can transfer or fund to various Sevas or projects and also book Darshan tickets or order prasadams for home delivery.
 
-TempleFood app will be a network of all temples in a state or country.
+TempleFood app will connect network of all temples in a state or country.
 
